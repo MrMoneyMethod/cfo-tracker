@@ -1,0 +1,18 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.build/
+build/
+dist/
+*.spec.build/
+*.exe
+*.app
+
+# Generated data cache (created at runtime)
+data/*.json
+
+.env
+.DS_Store
